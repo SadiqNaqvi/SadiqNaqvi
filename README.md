@@ -62,14 +62,18 @@ I enjoy transforming ideas into scalable products using modern web technologies,
 ## 🌟 Featured Projects
 
 <a href="https://github.com/SadiqNaqvi/Parlocula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Parlocula&theme=tokyonight" />
+  <img align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Parlocula&theme=tokyonight" />
 </a>
+</br>
+</br>
 <a href="https://github.com/SadiqNaqvi/Redis-Flow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Redis-Flow&theme=tokyonight" />
+  <img align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Redis-Flow&theme=tokyonight" />
 </a>
+</br>
+</br>
 </a>
 <a href="https://github.com/SadiqNaqvi/Techbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Techbook&theme=tokyonight" />
+  <img align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=SadiqNaqvi&repo=Techbook&theme=tokyonight" />
 </a>
 
 ### 🎬 Parlocula
@@ -86,8 +90,9 @@ A community-driven social media platform designed for movie and TV show enthusia
 
 **Tech Stack:** Next.js, MongoDB, Redis, Tailwind CSS, Ably, Zustand, Zod, REST APIs, Web Push Notifications
 
-[🔗 Repository](https://github.com/SadiqNaqvi/Parlocula)
-[🌐 Live Demo](https://parlocula.vercel.app)
+🔗 [Repository](https://github.com/SadiqNaqvi/Parlocula)
+</br>
+🌐 [Live Demo](https://parlocula.vercel.app)
 
 ---
 
@@ -103,7 +108,7 @@ An open-source TypeScript library built to simplify Redis workflows and develope
 
 **Tech Stack:** TypeScript
 
-[🔗 Repository](https://github.com/SadiqNaqvi/Redis-Flow)
+🔗 [Repository](https://github.com/SadiqNaqvi/Redis-Flow)
 
 ---
 
@@ -119,8 +124,9 @@ A Progressive Web Application that combines note-taking, task management, and li
 
 **Tech Stack:** React.js, Firebase
 
-[🔗 Repository](https://github.com/SadiqNaqvi/Techbook)
-[🌐 Live Demo](https://mytechbook.web.app)
+🔗 [Repository](https://github.com/SadiqNaqvi/Techbook)
+</br>
+🌐 [Live Demo](https://mytechbook.web.app)
 
 ---
 
@@ -143,7 +149,6 @@ A Progressive Web Application that combines note-taking, task management, and li
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqNaqvi&theme=tokyo-night" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadiqNaqvi&theme=github_dark" />
 </p>
 
@@ -163,7 +168,7 @@ A Progressive Web Application that combines note-taking, task management, and li
 ## 🌐 Connect With Me
 
 [Portfolio](https://naqvisadiq.netlify.app) •
-[LinkedIn]([https://](https://linkedin.com/in/sadiq-naqvi-327892238)) •
+[LinkedIn](https://linkedin.com/in/sadiq-naqvi-327892238) •
 [GitHub](https://github.com/SadiqNaqvi) •
 [Mail Me](mailto:naqvisadiqatwork@gmail.com)
 
